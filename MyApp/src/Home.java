@@ -1,0 +1,5 @@
+
+public class Home {
+	String anbc = null;
+	String abc = new String();
+}
